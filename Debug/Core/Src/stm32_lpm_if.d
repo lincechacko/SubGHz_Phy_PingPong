@@ -39,10 +39,6 @@ Core/Src/stm32_lpm_if.o: ../Core/Src/stm32_lpm_if.c \
  ../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_system.h \
  ../Core/Inc/main.h \
  ../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_gpio.h \
- C:/Users/Lince/STM32CubeIDE/workspace_1.18.1/SubGHz_Phy_PingPong/Drivers/BSP/STM32WLxx_Nucleo/stm32wlxx_nucleo_radio.h \
- C:/Users/Lince/STM32CubeIDE/workspace_1.18.1/SubGHz_Phy_PingPong/Drivers/BSP/STM32WLxx_Nucleo/stm32wlxx_nucleo_errno.h \
- C:/Users/Lince/STM32CubeIDE/workspace_1.18.1/SubGHz_Phy_PingPong/Drivers/BSP/STM32WLxx_Nucleo/stm32wlxx_nucleo_conf.h \
- C:/Users/Lince/STM32CubeIDE/workspace_1.18.1/SubGHz_Phy_PingPong/Drivers/BSP/STM32WLxx_Nucleo/stm32wlxx_nucleo.h \
  ../Utilities/lpm/tiny_lpm/stm32_lpm.h ../Core/Inc/stm32_lpm_if.h \
  ../Core/Inc/usart_if.h ../Utilities/trace/adv_trace/stm32_adv_trace.h \
  ../Core/Inc/utilities_conf.h ../Drivers/CMSIS/Include/cmsis_compiler.h \
@@ -88,10 +84,6 @@ Core/Src/stm32_lpm_if.o: ../Core/Src/stm32_lpm_if.c \
 ../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_system.h:
 ../Core/Inc/main.h:
 ../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_gpio.h:
-C:/Users/Lince/STM32CubeIDE/workspace_1.18.1/SubGHz_Phy_PingPong/Drivers/BSP/STM32WLxx_Nucleo/stm32wlxx_nucleo_radio.h:
-C:/Users/Lince/STM32CubeIDE/workspace_1.18.1/SubGHz_Phy_PingPong/Drivers/BSP/STM32WLxx_Nucleo/stm32wlxx_nucleo_errno.h:
-C:/Users/Lince/STM32CubeIDE/workspace_1.18.1/SubGHz_Phy_PingPong/Drivers/BSP/STM32WLxx_Nucleo/stm32wlxx_nucleo_conf.h:
-C:/Users/Lince/STM32CubeIDE/workspace_1.18.1/SubGHz_Phy_PingPong/Drivers/BSP/STM32WLxx_Nucleo/stm32wlxx_nucleo.h:
 ../Utilities/lpm/tiny_lpm/stm32_lpm.h:
 ../Core/Inc/stm32_lpm_if.h:
 ../Core/Inc/usart_if.h:

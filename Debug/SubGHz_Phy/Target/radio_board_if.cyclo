@@ -4,4 +4,4 @@
 ../SubGHz_Phy/Target/radio_board_if.c:138:9:RBI_GetTxConfig	1
 ../SubGHz_Phy/Target/radio_board_if.c:164:9:RBI_IsTCXO	1
 ../SubGHz_Phy/Target/radio_board_if.c:190:9:RBI_IsDCDC	1
-../SubGHz_Phy/Target/radio_board_if.c:216:9:RBI_GetRFOMaxPowerConfig	1
+../SubGHz_Phy/Target/radio_board_if.c:216:9:RBI_GetRFOMaxPowerConfig	2

@@ -39,10 +39,6 @@ SubGHz_Phy/App/subghz_phy_app.o: ../SubGHz_Phy/App/subghz_phy_app.c \
  ../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_system.h \
  ../Core/Inc/main.h \
  ../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_gpio.h \
- C:/Users/Lince/STM32CubeIDE/workspace_1.18.1/SubGHz_Phy_PingPong/Drivers/BSP/STM32WLxx_Nucleo/stm32wlxx_nucleo_radio.h \
- C:/Users/Lince/STM32CubeIDE/workspace_1.18.1/SubGHz_Phy_PingPong/Drivers/BSP/STM32WLxx_Nucleo/stm32wlxx_nucleo_errno.h \
- C:/Users/Lince/STM32CubeIDE/workspace_1.18.1/SubGHz_Phy_PingPong/Drivers/BSP/STM32WLxx_Nucleo/stm32wlxx_nucleo_conf.h \
- C:/Users/Lince/STM32CubeIDE/workspace_1.18.1/SubGHz_Phy_PingPong/Drivers/BSP/STM32WLxx_Nucleo/stm32wlxx_nucleo.h \
  ../Core/Inc/sys_app.h ../Core/Inc/sys_conf.h \
  ../Utilities/trace/adv_trace/stm32_adv_trace.h \
  ../Core/Inc/utilities_conf.h ../Drivers/CMSIS/Include/cmsis_compiler.h \
@@ -51,7 +47,10 @@ SubGHz_Phy/App/subghz_phy_app.o: ../SubGHz_Phy/App/subghz_phy_app.c \
  ../Middlewares/Third_Party/SubGHz_Phy/radio.h \
  ../Middlewares/Third_Party/SubGHz_Phy/radio_def.h \
  ../Middlewares/Third_Party/SubGHz_Phy/radio_ex.h \
- ../Middlewares/Third_Party/SubGHz_Phy/lr_fhss_v1_base_types.h
+ ../Middlewares/Third_Party/SubGHz_Phy/lr_fhss_v1_base_types.h \
+ ../Utilities/timer/stm32_timer.h ../Utilities/sequencer/stm32_seq.h \
+ ../Core/Inc/utilities_def.h ../SubGHz_Phy/App/app_version.h \
+ ../Middlewares/Third_Party/SubGHz_Phy/stm32_radio_driver/subghz_phy_version.h
 ../Core/Inc/platform.h:
 ../Drivers/CMSIS/Device/ST/STM32WLxx/Include/stm32wlxx.h:
 ../Drivers/CMSIS/Device/ST/STM32WLxx/Include/stm32wl55xx.h:
@@ -92,10 +91,6 @@ SubGHz_Phy/App/subghz_phy_app.o: ../SubGHz_Phy/App/subghz_phy_app.c \
 ../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_system.h:
 ../Core/Inc/main.h:
 ../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_gpio.h:
-C:/Users/Lince/STM32CubeIDE/workspace_1.18.1/SubGHz_Phy_PingPong/Drivers/BSP/STM32WLxx_Nucleo/stm32wlxx_nucleo_radio.h:
-C:/Users/Lince/STM32CubeIDE/workspace_1.18.1/SubGHz_Phy_PingPong/Drivers/BSP/STM32WLxx_Nucleo/stm32wlxx_nucleo_errno.h:
-C:/Users/Lince/STM32CubeIDE/workspace_1.18.1/SubGHz_Phy_PingPong/Drivers/BSP/STM32WLxx_Nucleo/stm32wlxx_nucleo_conf.h:
-C:/Users/Lince/STM32CubeIDE/workspace_1.18.1/SubGHz_Phy_PingPong/Drivers/BSP/STM32WLxx_Nucleo/stm32wlxx_nucleo.h:
 ../Core/Inc/sys_app.h:
 ../Core/Inc/sys_conf.h:
 ../Utilities/trace/adv_trace/stm32_adv_trace.h:
@@ -109,3 +104,8 @@ C:/Users/Lince/STM32CubeIDE/workspace_1.18.1/SubGHz_Phy_PingPong/Drivers/BSP/STM
 ../Middlewares/Third_Party/SubGHz_Phy/radio_def.h:
 ../Middlewares/Third_Party/SubGHz_Phy/radio_ex.h:
 ../Middlewares/Third_Party/SubGHz_Phy/lr_fhss_v1_base_types.h:
+../Utilities/timer/stm32_timer.h:
+../Utilities/sequencer/stm32_seq.h:
+../Core/Inc/utilities_def.h:
+../SubGHz_Phy/App/app_version.h:
+../Middlewares/Third_Party/SubGHz_Phy/stm32_radio_driver/subghz_phy_version.h:
